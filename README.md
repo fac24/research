@@ -1,6 +1,6 @@
 # Research
 
-### :wave: Welcome to the repo for FAC23's research! :zap:
+### :wave: Welcome to the repo for FAC24's research! :zap:
 
 ### :sparkles: Please upload the notes from your tech spikes here: :sparkles:
 
