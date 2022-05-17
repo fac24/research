@@ -1,8 +1,8 @@
-# Research
+# Research & Project Presentations
 
-### :wave: Welcome to the repo for FAC24's research! :zap:
+### :wave: Welcome to the repo for FAC24's research and project presentations! :zap:
 
-### :sparkles: Please upload the notes from your tech spikes here: :sparkles:
+### :sparkles: Please upload the notes from your tech spikes and projects here: :sparkles:
 
 Upload your notes in the folder corresponding to the current week. If there **is no folder** for your current week, you are the first one to upload a file and have honour of making it! :tada:
    
